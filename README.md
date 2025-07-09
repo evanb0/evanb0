@@ -1,16 +1,13 @@
-## Hi there 👋
+## Introduction 👋
 
-<!--
-**evanb0/evanb0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently a second-year student in Chemistry at the University of Manchester. Although not my main area of study, I am always interested in learning new things about coding and how to make my ideas come to life.
 
-Here are some ideas to get you started:
+This page will serve as an insight into any of the work I am currently doing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The best way to get in contact with me is through LinkedIn: https://www.linkedin.com/in/evan-brunton-aab901292/
+
+
+
+
+
+
