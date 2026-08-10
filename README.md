@@ -1,6 +1,6 @@
 ## Introduction 👋
 
-I am currently a third-year student in Chemistry at the University of Manchester. Although not my main area of study, I am always interested in learning new things about coding and how to make my ideas come to life.
+I am a Chemistry graduate from the University of Manchester.
 
 This page will serve as an insight into any of the work I am currently doing.
 
